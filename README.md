@@ -18,7 +18,7 @@
 
 ---
 
-## ⚙️ Stack ที่ใช้
+## ⚙️ ระบบที่ได้ที่ใช้
 
 - 🐍 Django 5.1 (Python)
 - 🖼 Bootstrap 5 (Frontend)
